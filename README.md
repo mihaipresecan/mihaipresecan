@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihaipresecan
 - 👀 I’m interested in discovering new skills of my own, in order to develop professionally but also personally
-- 🌱 I’m currently learning Java Development
+- 🌱 I’m currently learning Java Development & FlowX Config as an intern @ MTD Technology Cluj - Napoca. 
 - 📫 How to reach me @ mihaipresecan@gmail.com
 
 <!---
